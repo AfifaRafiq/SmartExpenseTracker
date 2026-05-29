@@ -1,22 +1,26 @@
-# SmartExpenseTracker
-App Name: Smart Expense Tracker
+# Smart Expense Tracker
 
-Description:
-This app helps users manage daily expenses and track their spending easily.
+A simple Android app for managing daily expenses.
 
-Category: Finance
+## About the App
+This app helps users manage and track daily expenses easily.
+Users can add expense records and manage spending.
 
-Version: 1.0
-
-Features:
+## Features
 - Add expenses
-- View history
-- Modern UI
-- Show Transactions
-- Delete Transactions
-- Bar Graph View
-- Exit App
+- View records
+- User-friendly interface
 
-Permissions:
-- Internet (if used)
-- Storage (if used)
+## Technologies Used
+- Java
+- XML
+- Android Studio
+
+## APK Download
+APK file is available in apk folder.
+
+## Privacy Policy
+Privacy policy file is available in docs folder.
+
+## Developed By
+Afifa Rafiq
